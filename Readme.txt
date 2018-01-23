@@ -1,0 +1,1 @@
+This program re-starts Chrome with a separate proxy profile, which means you can use other browsers (e.g. FireFox) to browse without proxy.
